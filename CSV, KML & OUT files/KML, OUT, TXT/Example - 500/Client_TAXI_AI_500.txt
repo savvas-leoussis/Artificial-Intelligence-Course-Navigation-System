@@ -1,0 +1,13 @@
+Closest 4 Available Taxis by Distance:
+
+120: 0.00km
+200: 8.08km
+140: 11.25km
+160: 17.32km
+
+Closest 4 Available Taxis by Rating:
+
+120: 9.2
+140: 9.1
+200: 8.0
+190: 7.2
